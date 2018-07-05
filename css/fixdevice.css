@@ -1,0 +1,48 @@
+/*IP 4*/
+@media only screen
+	and (min-device-width: 320px)
+	and (max-device-width: 480px)
+	and (-webkit-min-device-pixel-ratio: 2){
+		.carousel-caption {
+  			left: 17px;
+		}
+		.tinyone-1{
+    		margin-right: 15px;
+		}
+	}
+/*samsung s5*/
+@media only screen
+	and (min-device-width: 360px)
+	and (max-device-width: 640px)
+	and (-webkit-min-device-pixel-ratio: 3){
+		.carousel-caption {
+  			left: 17px;
+		}
+		.tinyone-1{
+    		margin-right: 15px;
+		}
+	}
+
+/*ip 6+*/
+@media only screen
+	and (min-device-width: 414px)
+	and (max-device-width: 736px)
+	and (-webkit-min-device-pixel-ratio: 2){
+		.carousel-caption {
+  			left: 17px;
+		}
+		.tinyone-1{
+    		margin-right: 15px;
+		}
+	}
+/*ipad*/
+@media only screen
+	and (min-device-width : 768px)
+	and (max-device-width : 1024px) {
+	.carousel-caption {
+  			left: 40px;
+		}
+		.tinyone-1{
+    		margin-right: 35px;
+		}
+}
